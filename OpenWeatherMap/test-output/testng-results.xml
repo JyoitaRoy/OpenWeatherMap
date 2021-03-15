@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6479" started-at="2021-03-15T03:27:13Z" finished-at="2021-03-15T03:27:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6479" started-at="2021-03-15T03:27:13Z" finished-at="2021-03-15T03:27:19Z">
+      <class name="OPW01.OpenWeatherMap.NewTs">
+        <test-method status="PASS" signature="URL()[pri:0, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="URL" is-config="true" duration-ms="726" started-at="2021-03-15T03:27:13Z" finished-at="2021-03-15T03:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="test1" duration-ms="2956" started-at="2021-03-15T03:27:14Z" finished-at="2021-03-15T03:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="PostRequest()[pri:2, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="PostRequest" duration-ms="889" started-at="2021-03-15T03:27:17Z" finished-at="2021-03-15T03:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequest -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="URL" is-config="true" duration-ms="0" started-at="2021-03-15T03:27:17Z" finished-at="2021-03-15T03:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="GetRequest()[pri:3, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="GetRequest" duration-ms="894" started-at="2021-03-15T03:27:18Z" finished-at="2021-03-15T03:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequest -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="URL" is-config="true" duration-ms="0" started-at="2021-03-15T03:27:18Z" finished-at="2021-03-15T03:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="URL" is-config="true" duration-ms="2" started-at="2021-03-15T03:27:18Z" finished-at="2021-03-15T03:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="DeleteRequest()[pri:4, instance:OPW01.OpenWeatherMap.NewTs@54c562f7]" name="DeleteRequest" duration-ms="964" started-at="2021-03-15T03:27:18Z" finished-at="2021-03-15T03:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteRequest -->
+      </class> <!-- OPW01.OpenWeatherMap.NewTs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
